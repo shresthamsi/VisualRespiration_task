@@ -1,0 +1,11 @@
+h1{
+    text-align:center;
+    margin-top:300px;
+    background: #A1FFCE;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(left, #FAFFD1, #A1FFCE);
+    background: -moz-linear-gradient(left, #FAFFD1, #A1FFCE);
+    background: -o-linear-gradient(left, #FAFFD1, #A1FFCE);
+    background: linear-gradient(to right, #FAFFD1, #A1FFCE);  /* Chrome 10-25, Safari 5.1-6 */ /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+   
+}        
